@@ -1,0 +1,8 @@
+A3    C4    E4                 2
+D3    F3    A3                 2
+G3    B3    D4                 2
+C3    E3    G3                 2
+F3    A3    C4                 2
+B2    D3    F3                 2
+E3    G#3    B3                2
+A2    E3    A3    C4           4
